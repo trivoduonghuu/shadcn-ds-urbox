@@ -1,0 +1,11 @@
+Bo ban giao shadcn-ds-urbox (05/11/2026)
+
+shadcn-ds-urbox-src.zip                 Source repo (commit 870b861), khong gom node_modules/dist. Chay: npm install && npm run dev
+shadcn-ds-urbox.bundle                  Git bundle day du lich su 3 commit, de push len git.urbox.vn:
+                                          git clone shadcn-ds-urbox.bundle shadcn-ds-urbox
+                                          cd shadcn-ds-urbox
+                                          git remote set-url origin https://git.urbox.vn/product/shadcn-ds-urbox.git
+                                          git push -u origin main
+Component_Map_v1.0_ten-trong-code.xlsx  Map da dien cot Ten trong code + sheet Bang lech
+Bang_lech.md                            Bang lech dang Markdown
+README.md                               README cua repo
